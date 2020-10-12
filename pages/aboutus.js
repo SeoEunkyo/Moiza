@@ -32,7 +32,7 @@ const Home = (props) => {
       <Grid>
         <Container maxWidth="md">
           <Box className={classes.titleSector}>
-            <Typography  gutterBottom> Dashboard Page Title.</Typography>
+            <Typography  gutterBottom> About us Title.</Typography>
           </Box>
           <Box className={classes.bodySector}>
             
